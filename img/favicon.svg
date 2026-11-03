@@ -2,10 +2,10 @@
   <title>Bistro Kovárna</title>
   <rect width="64" height="64" fill="#2a1d17"/>
   <rect x="2" y="2" width="60" height="60" fill="none" stroke="#c99a4b" stroke-width="2"/>
-  <!-- plamen -->
+ 
   <path d="M32 6 C37 13 41 17 41 23 C41 27 38 29 36 29 L28 29 C26 29 23 27 23 23 C23 19 26 17 27 13 C29 15 30 17 30 19 C33 15 34 11 32 6 Z" fill="#d9722b"/>
   <path d="M32 17 C34 20 36 22 36 25 C36 27 34 29 32 29 C30 29 28 27 28 25 C28 23 31 21 32 17 Z" fill="#f4c26b"/>
-  <!-- kovadlina -->
+  
   <path d="M8 31 L50 31 L50 39 L42 39 L42 44 L47 44 L47 54 L17 54 L17 44 L22 44 L22 39 L20 39 C16 39 12 36 8 31 Z" fill="#c99a4b"/>
   <rect x="17" y="50" width="30" height="4" fill="#8f3a20"/>
 </svg>
