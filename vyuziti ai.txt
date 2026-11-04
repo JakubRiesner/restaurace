@@ -1,0 +1,7 @@
+DO claude.ai jsem nahrál zadání projektu a zadal jsem příkaz ať mi vygeneruje nápad jak by web mohl vypadat(jméno restaurace, podstránky,barvy,atd.) 
+Tento návrh jsem pak upravil přesně podle mých představ a šel jsem tvořit web do VS codu. Claude.ai jsem napsal ze kod budu psat já a že mi nesmí nikdy vygenrovat celý kód.
+Web jsem dělal podle svých znalostí a vašeho příkladového webu z hodiny. když jsem nevěděl nějaký příkaz, AI jsem se zeptal jakým příkazem svého cíle dosáhnu. AI mi napsalo příkaz 
+a zbytek kódu jsem dělal zase podle svých znalostí. Když mi kód nefungoval, náhral jsem ho do AI aby mi SLOVNĚ řekl kde mám chybu. Odpověď AI byla např. tady za maxwidth ti chbí nějaký údaj.
+Jelikož jsem se dost inspiroval vašim kódem tak jste mi řekl ať design překopu. AI jsem tedy řekl at mi udělá grafický návrh toho jak to předělat a zase jsem postupoval stejně jak předtím.
+Veškerý text a obrázky na webu jsou generovány AI včetně favikony kterou jsem si nechal vygenerovat s koncovkou .svg aby neztrácela kvalitu. .svg obráztky ser ale tvoří pomocí kódu který mi AI vygenerovalo
+takže KÓD K FAVIKONĚ JE VYGENEROVANÝ AI. AI mi ještě dost pomohlo s kódem pro zobrazení webu na telefonu jelikož jsme to vůbec nebrali tak jsem se ptal AI dost do podrobna jak mám ten kód vytvořit.
